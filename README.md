@@ -27,8 +27,8 @@ eingerichtet werden kann. Es können auch mehrere Präfixe (wie Unterverzeichnis
 kombiniert werden.
 Die Präfixe/Ordner wie auch die Repos selbst werden auf Englisch benannt.
 
-*Beispiele*: Ein Repo zu Programmiergrundlagen in der Sprache [Go](https://go.dev/)
-könnte dann z.B. `go.basics` heißen.
+*Beispiele*: Das Repo zu Programmiergrundlagen in der Sprache [Go](https://go.dev/)
+heißt [`go.basics`](https://github.com/rhcourses/go.basics).
 Eines über Baumstrukturen, das Beispiele oder Aufgaben in mehreren Sprachen
 enthält, würde vielleicht `concepts.trees` heißen.
 
@@ -36,5 +36,6 @@ enthält, würde vielleicht `concepts.trees` heißen.
 
 ### Programmiersprache [Go](https://go.dev/)
 
+* [Grundlagen](https://github.com/rhcourses/go.basics)
 * [Structs](https://github.com/rhcourses/go.structs)
 * [Rekursion](https://github.com/rhcourses/go.recursion)
