@@ -36,4 +36,5 @@ enthält, würde vielleicht `concepts.trees` heißen.
 
 ### Programmiersprache [Go](https://go.dev/)
 
+* [Structs](https://github.com/rhcourses/go.structs)
 * [Rekursion](https://github.com/rhcourses/go.recursion)
